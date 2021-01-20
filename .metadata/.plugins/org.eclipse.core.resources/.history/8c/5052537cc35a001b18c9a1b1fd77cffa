@@ -1,0 +1,5 @@
+package patrones.com.mayab.desarrollo.patrones.creacion.singlenton;
+
+public class Coordinador {
+
+}
