@@ -2,6 +2,9 @@ package com.mayab.desarrollo.patrones.comportamiento.observer.clima;
 
 import java.util.*;
 
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.DisplayElement;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Observer;
+
 public class StatisticsDisplay implements Observer, DisplayElement {
 	private float maxTemp = 0.0f;
 	private float minTemp = 200;

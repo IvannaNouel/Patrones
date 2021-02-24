@@ -1,5 +1,9 @@
 package com.mayab.desarrollo.patrones.comportamiento.observer.clima;
-	
+
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.DisplayElement;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Observer;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Subject;
+
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 	private float temperature;
 	private float humidity;

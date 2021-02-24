@@ -2,6 +2,9 @@ package com.mayab.desarrollo.patrones.comportamiento.observer.clima;
 
 import java.util.*;
 
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Observer;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Subject;
+
 public class WeatherData implements Subject {
 	private ArrayList observers;
 	private float temperature;

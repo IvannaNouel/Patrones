@@ -2,6 +2,9 @@ package com.mayab.desarrollo.patrones.comportamiento.observer.clima;
 
 import java.util.*;
 
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.DisplayElement;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Observer;
+
 public class ForecastDisplay implements Observer, DisplayElement {
 	private float currentPressure = 29.92f;  
 	private float lastPressure;

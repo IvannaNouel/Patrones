@@ -1,5 +1,8 @@
 package com.mayab.desarrollo.patrones.comportamiento.observer.clima;
 
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.DisplayElement;
+import com.mayab.desarrollo.comportamiento.observer.aeropuerto.Observer;
+
 public class HeatIndexDisplay implements Observer, DisplayElement {
 	float heatIndex = 0.0f;
 	private WeatherData weatherData;
