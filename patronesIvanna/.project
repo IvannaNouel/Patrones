@@ -22,6 +22,51 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>src/DiagramasClase/AbstractFactoryMueblesIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/AbstractFactoryMueblesIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/AdapterIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/AdapterIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/DecoratorIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/DecoratorIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/ObserverIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/ObserverIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/ProxyIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/ProxyIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/SimpleFactoryIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/SimpleFactoryIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/SinglentonIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/SinglentonIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/StrategyIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/StrategyIvanna.png</locationURI>
+		</link>
+		<link>
+			<name>src/DiagramasClase/TemplateIvanna.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/DiagramasIvannaNouel/TemplateIvanna.png</locationURI>
+		</link>
+		<link>
 			<name>src/DiagramasExamen/Problema1IvannaNouel.png</name>
 			<type>1</type>
 			<locationURI>PARENT-5-PROJECT_LOC/Pictures/Screenshots/Diagramas/Problema1IvannaNouel.png</locationURI>
